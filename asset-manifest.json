@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/tranthianh/static/css/main.3188447c.css",
+    "main.js": "/tranthianh/static/js/main.2f46197e.js",
+    "static/js/787.86d370db.chunk.js": "/tranthianh/static/js/787.86d370db.chunk.js",
+    "static/media/avatar.jpg": "/tranthianh/static/media/avatar.6d48f966ca859a8369ce.jpg",
+    "static/media/default_background_horizontal.png": "/tranthianh/static/media/default_background_horizontal.45c50d8367c3fde3651e.png",
+    "static/media/instagram_icon.png": "/tranthianh/static/media/instagram_icon.995b7a3e23d55fe84d69.png",
+    "static/media/background-mobile.png": "/tranthianh/static/media/background-mobile.11707e6394b251dfa729.png",
+    "static/media/contact_icon.png": "/tranthianh/static/media/contact_icon.cd48ba6e96b466cb9134.png",
+    "static/media/email_icon.png": "/tranthianh/static/media/email_icon.8d55216f1780ecfa4edc.png",
+    "static/media/logo_zalo.png": "/tranthianh/static/media/logo_zalo.deb7b318248e0432a009.png",
+    "index.html": "/tranthianh/index.html",
+    "main.3188447c.css.map": "/tranthianh/static/css/main.3188447c.css.map",
+    "main.2f46197e.js.map": "/tranthianh/static/js/main.2f46197e.js.map",
+    "787.86d370db.chunk.js.map": "/tranthianh/static/js/787.86d370db.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3188447c.css",
+    "static/js/main.2f46197e.js"
+  ]
+}
