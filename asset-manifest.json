@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/tranthianh/static/css/main.3188447c.css",
-    "main.js": "/tranthianh/static/js/main.2f46197e.js",
+    "main.js": "/tranthianh/static/js/main.13aba4ce.js",
     "static/js/787.86d370db.chunk.js": "/tranthianh/static/js/787.86d370db.chunk.js",
     "static/media/avatar.jpg": "/tranthianh/static/media/avatar.6d48f966ca859a8369ce.jpg",
     "static/media/default_background_horizontal.png": "/tranthianh/static/media/default_background_horizontal.45c50d8367c3fde3651e.png",
@@ -12,11 +12,11 @@
     "static/media/logo_zalo.png": "/tranthianh/static/media/logo_zalo.deb7b318248e0432a009.png",
     "index.html": "/tranthianh/index.html",
     "main.3188447c.css.map": "/tranthianh/static/css/main.3188447c.css.map",
-    "main.2f46197e.js.map": "/tranthianh/static/js/main.2f46197e.js.map",
+    "main.13aba4ce.js.map": "/tranthianh/static/js/main.13aba4ce.js.map",
     "787.86d370db.chunk.js.map": "/tranthianh/static/js/787.86d370db.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.3188447c.css",
-    "static/js/main.2f46197e.js"
+    "static/js/main.13aba4ce.js"
   ]
 }
