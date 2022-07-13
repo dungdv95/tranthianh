@@ -203,7 +203,7 @@ function Main() {
               <Box sx={{width: '3rem', position: 'relative'}}>
                 <img src={email_icon} alt="zalo icon" className={classes.icon}></img>
               </Box>
-              <Link className={classes.link_content} href="mailto:duongvanhung2050@gmail.com">Email</Link>
+              <Link className={classes.link_content} href="mailto:trananh0806@gmail.com">Email</Link>
             </Grid>
           </CardContent>
         </Card>
